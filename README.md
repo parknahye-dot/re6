@@ -40,6 +40,7 @@ src/index.css 수정
 Toast UI Editor(웹 에디터) React Wrapper 설치:
 
 npm install @toast-ui/react-editor @toast-ui/editor
+<!-- npm install @toast-ui/react-editor @toast-ui/editor --legacy-peer-deps (강제 설치) -->
 
 
 CSS도 반드시 import 필요:
